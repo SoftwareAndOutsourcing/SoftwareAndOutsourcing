@@ -8,7 +8,7 @@ Agile project manager / engineering manager / lead developer / developer.
 - Web3 and crypto.
 - Software development productivity and good practices for small to mid-sized teams.
 - Challenging projects and learning new things (any role including developer).
-- React.js, Angular.js, Nest.js, Mongo DB, cloud (Docker, Kubernetes).
+- React.js, Angular.js, Nest.js, MongoDB, cloud (Docker, Kubernetes).
 
 ###### Experience
 - December 2021 - current: crypto / modern banking startup. Project manager / engineering manager / technical director directly reporting to the founder / CEO.
