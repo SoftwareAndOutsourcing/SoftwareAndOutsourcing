@@ -8,7 +8,7 @@
 
 ###### Current interests
 
-- Web3, DeFi and crypto.
+- Web3, DeFi, and crypto.
 - Software development productivity and good practices for small to mid-sized teams.
 - Challenging projects and learning new things (any role including developer).
 - React.js, Angular.js, Nest.js, MongoDB, cloud (Docker, Kubernetes).
@@ -17,8 +17,8 @@
 
 - December 2021 - current: crypto market and modern banking startup. Project manager / engineering manager / technical director directly reporting to the founder / CEO.
 - March 2017 - May 2020: Power Software Consulting. Lead developer (MEAN stack) for a complex multimedia CMS.
-- August 2011 - August 2014: MockupScreens project manager.
-- June 2005 - current: freelance developer through Freelancer.com and other markets. More than 400 projects successfully completed being one of the top-rated developers.
+- August 2011 - August 2014: MockupScreens.com. Project manager.
+- June 2005 - current: Freelancer.com and other markets. Freelance developer. More than 400 projects successfully completed, being one of the top-rated developers.
 
 ###### Education
 
