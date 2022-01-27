@@ -23,7 +23,7 @@ Agile project manager / engineering manager / lead developer / developer.
 - English:
 	- Writting: almost native.
 	- Speaking: good.
-- Spanish: native
+- Spanish: native.
 
 ###### Other
 - I have been a (GNU?/)Linux for many years and I have a preference for open-source software.
