@@ -2,7 +2,7 @@ Agile project manager / engineering manager / lead developer / developer.
 
 ###### Current availability
 
-- Part-time. I can either manage a small team or work as a developer.
+- Part-time.
 
 ###### Current interests
 - Web3 and crypto.
