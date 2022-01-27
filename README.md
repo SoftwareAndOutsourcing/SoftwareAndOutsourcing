@@ -5,7 +5,7 @@ Agile project manager / engineering manager / lead developer / developer.
 - Part-time.
 
 ###### Current interests
-- Web3 and crypto.
+- Web3, DeFi and crypto.
 - Software development productivity and good practices for small to mid-sized teams.
 - Challenging projects and learning new things (any role including developer).
 - React.js, Angular.js, Nest.js, MongoDB, cloud (Docker, Kubernetes).
