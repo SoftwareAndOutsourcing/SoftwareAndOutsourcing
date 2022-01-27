@@ -26,7 +26,7 @@ Agile project manager / engineering manager / lead developer / developer.
 - Spanish: native.
 
 ###### Other
-- I have been a (GNU?/)Linux for many years and I have a preference for open-source software.
+- I have been a (GNU?/)Linux user for many years and I have a preference for open-source software.
 
 ###### Contact 
 - Discord: Sergio1#9579
