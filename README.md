@@ -17,7 +17,7 @@ Agile project manager / engineering manager / lead developer / developer.
 - June 2005 - current: freelance developer through Freelancer.com and other markets. More than 400 projects successfully completed being one of the top-rated developers.
 
 ###### Education
-- Spanish public university: Technical Engineer in Communications (BSc. Degree equivalent in the USA).
+- 2003-2009 Spain Public University: Technical Engineer in Communications (BSc. Degree equivalent in the USA).
 
 ###### Languages
 - English:
