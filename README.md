@@ -1,4 +1,6 @@
-Agile project manager / engineering manager / lead developer / developer.
+###### Roles
+
+- Agile project manager / engineering manager / lead developer / developer.
 
 ###### Current availability
 
@@ -12,7 +14,7 @@ Agile project manager / engineering manager / lead developer / developer.
 
 ###### Experience
 - December 2021 - current: crypto market and modern banking startup. Project manager / engineering manager / technical director directly reporting to the founder / CEO.
-- March 2017 - May 2020: Power Software Consulting. Lead developer (MEAN stack) for a complex multimedia CRM.
+- March 2017 - May 2020: Power Software Consulting. Lead developer (MEAN stack) for a complex multimedia CMS.
 - August 2011 - August 2014: MockupScreens project manager.
 - June 2005 - current: freelance developer through Freelancer.com and other markets. More than 400 projects successfully completed being one of the top-rated developers.
 
