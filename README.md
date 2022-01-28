@@ -8,7 +8,7 @@
 
 ###### Current interests
 
-- Web3, DeFi, and crypto.
+- Web3, DeFi, crypto.
 - Software development productivity and good practices for small to mid-sized teams.
 - Challenging projects and learning new things (any role including developer).
 - React.js, Angular.js, Nest.js, MongoDB, cloud (Docker, Kubernetes).
@@ -36,7 +36,7 @@
 
 ###### Contact 
 - Discord: Sergio1#9579
-- Freelancer 
+- Freelancer:
     - Profile: https://www.freelancer.com/u/sergioes
     - Hire me page (0% fees): https://www.freelancer.com/hireme/sergioes
 
