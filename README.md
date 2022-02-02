@@ -11,7 +11,7 @@
 - Web3, DeFi, crypto.
 - Software development productivity and good practices for small to mid-sized teams.
 - Challenging projects and learning new things (any role including developer).
-- React.js, Angular.js, Nest.js, MongoDB, cloud (Docker, Kubernetes).
+- React.js, Angular.js, Nest.js, Express.js,  Node.js, MongoDB, cloud (Docker, Kubernetes).
 
 ###### Experience
 
@@ -22,7 +22,7 @@
 
 ###### Education
 
-- 2003-2009 Public University of Spain: Technical Engineer in Communications (BSc. Degree equivalent in the USA).
+- 2003-2009 Public University of Spain: Technical Engineer in Telecommunications (BSc. Degree equivalent in the USA).
 
 ###### Languages
 
