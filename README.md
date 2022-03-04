@@ -15,7 +15,7 @@
 
 ###### Experience
 
-- December 2021 - current: crypto market and modern banking startup. Project manager / engineering manager / technical director directly reporting to the founder / CEO.
+- December 2021 - current: crypto market and modern banking startup. Project manager / engineering manager / technical director directly reporting to the CEO & founders.
 - March 2017 - May 2020: Power Software Consulting. Lead developer (MEAN stack) for a complex multimedia CMS.
 - August 2011 - August 2014: MockupScreens.com. Project manager.
 - July 2005 - current: Freelancer.com and other markets. Freelance developer. More than 400 projects successfully completed, being one of the top-rated developers.
