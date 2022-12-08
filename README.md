@@ -10,12 +10,12 @@
 
 - Web3, DeFi, Blockchain, Fintech, Crypto.
 - Software development productivity and good practices for small to mid-sized teams.
-- Challenging projects and learning new things (any role including developer).
+- Challenging projects and learning new things (any role, including developer).
 - React.js, Angular.js, Nest.js, Express.js,  Node.js, MongoDB, cloud (Docker, Kubernetes).
 
 ###### Experience
 
-- December 2021 - current: crypto market and modern banking startup. Project manager / engineering manager / technical director directly reporting to the CEO & founders.
+- December 2021 - August 2022: crypto market and modern banking startup. Project manager / engineering manager / technical director directly reporting to the CEO & founders.
 - March 2017 - May 2020: Power Software Consulting. Lead developer (MEAN stack) for a complex multimedia CMS.
 - August 2011 - August 2014: MockupScreens.com. Project manager.
 - July 2005 - current: Freelancer.com and other markets. Freelance developer. More than 400 projects successfully completed, being one of the top-rated developers.
@@ -32,7 +32,7 @@
 - Spanish: native.
 
 ###### Other
-- I have been using (GNU?/)Linux as my main OS for many years and I have a preference for open-source software.
+- I have been using (GNU?/)Linux as my main OS for many years, and I have a preference for open-source software.
 
 ###### Contact 
 - Discord: Sergio1#9579
