@@ -27,7 +27,7 @@
 ###### Languages
 
 - English:
-	- Writting: almost native.
+	- Writing: almost native.
 	- Speaking: good.
 - Spanish: native.
 
