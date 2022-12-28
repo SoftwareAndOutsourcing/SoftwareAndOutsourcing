@@ -8,9 +8,9 @@
 
 ###### Current interests
 
-- Web3, DeFi, Blockchain, Fintech, Crypto.
 - Software development productivity and good practices for small to mid-sized teams.
 - Challenging projects and learning new things (any role, including developer).
+- Web3, DeFi, Blockchain, Fintech, Crypto.
 - React.js, Angular.js, Nest.js, Express.js,  Node.js, MongoDB, cloud (Docker, Kubernetes).
 
 ###### Experience
