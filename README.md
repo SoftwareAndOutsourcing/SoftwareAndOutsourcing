@@ -35,7 +35,7 @@
 - I have been using (GNU?/)Linux as my main OS for many years, and I have a preference for open-source software.
 
 ###### Contact 
-- Discord: Sergio1#9579
+- Discord: sergio.es
 - Freelancer:
     - Profile: https://www.freelancer.com/u/sergioes
     - Hire me page (0% fees): https://www.freelancer.com/hireme/sergioes
